@@ -1,0 +1,11 @@
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\bin\Debug\WF-Pasta.exe.config
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\bin\Debug\WF-Pasta.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\bin\Debug\WF-Pasta.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\obj\Debug\WF-Pasta.csproj.AssemblyReference.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\obj\Debug\WF-Pasta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\obj\Debug\WF_Pasta.Properties.Resources.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\obj\Debug\WF-Pasta.csproj.GenerateResource.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\obj\Debug\WF-Pasta.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\obj\Debug\WF-Pasta.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\obj\Debug\WF-Pasta.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Pasta\obj\Debug\WF_Pasta.Form1.resources
